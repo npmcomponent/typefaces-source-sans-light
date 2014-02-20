@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-sans-light",
+  "description": "The Source Sans light typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
